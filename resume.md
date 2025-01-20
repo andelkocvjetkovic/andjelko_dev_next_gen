@@ -1,10 +1,3 @@
-# Andjelko Cvjetkovic
-
-Front end developer at [Codepool](https://coodepool.io)
-<andjelko.cvjetkovic@gmail.com>
-[linkedin](https://www.linkedin.com/in/andelkocvjekovic/)
-[github](https://github.com/andelkocvjetkovic)
-
 ## Core Skills
 
 - Programming: Object-Oriented and Functional
