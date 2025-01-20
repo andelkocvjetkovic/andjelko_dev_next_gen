@@ -4,7 +4,7 @@ import Image from "next/image";
 export default async function Home() {
   const resume = await getHTMLContentFromMarkdown("/resume.md");
   return (
-    <main className="bg-stone-50">
+    <main>
       <div className="prose prose-stone mx-auto lg:prose-lg prose-p:text-balance prose-headings:text-balance py-4">
         <header className="flex gap-x-8 items-center">
           <Image
