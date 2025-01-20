@@ -1,21 +1,20 @@
 ## Core Skills
 
-- Programming: Object-Oriented and Functional
-- Programming Languages: JavaScript, TypeScript, CSS and C++
-- Web Development: React, Next.js and Remix
-- Rendering technologies: SSR, SSG and CSR
-- Mobile Development: React Native
+- Programming Paradigms: Object-Oriented and Functional
+- Programming Languages: JavaScript, TypeScript, C# and C++
+- Libraries and Frameworks: React, Next.js, Remix and Svelte
+- Web Rendering Technologies: SSR, SSG and CSR
 - CSS Frameworks: Tailwind CSS, Bootstrap and Material-UI
-- UI Libraries: Radix, React Aria and Bootstrap
+- UI Libraries: Radix, Shadcn React Aria and Bootstrap
+- Mobile Development: React Native
 - Testing: Jest, React Testing Library, Cypress and Vitest
-- Bundlers: Vite, Metro and Turbopack
+- Bundlers: Webpack, Vite, Metro and Turbopack
 - Database: SQL and MongoDB
 - Design: Figma
-- Version control: Git
-- Data Visualization: D3.js
+- Version Control: Git
+- Data Visualization: Visx and D3.js
 - Animations: CSS and Three.js
 - Agile Methodologies: Scrum and Kanban
-- Performance Optimization: Building solutions with a focus on speed and scalability
 
 ## Professional Experience
 
@@ -23,8 +22,9 @@
 
 #### Frontend Developer | June 2021 – Present
 
-- Built high-performance web applications using frameworks like **React**, **Svelte**, and **Vanilla JS and TS**.
-- Integrated **REST APIs**, implemented **JWT-based authorization** flows, and utilized tools like **Postman** for API testing.
+- Built high-performance software solutions using frameworks like **React**, **React Native**, **Svelte**, and **Vanilla JS and TS**.
+- Created **responsive**, **accessible**, and **SEO-friendly** web applications.
+- Integrated **REST APIs**, implemented **JWT-based authorization** flows, and utilized tools like **Postman**.
 - Delivered CMS-driven solutions with **Payload**, **Sanity**, and **Strapi**, including payment integrations.
 - Developed complex animations and interactive components to enhance user experiences.
 - Implemented Internationalization (i18n) for **multi-language** support across applications.
@@ -33,9 +33,10 @@
 - Wrote and maintained **unit**, **integration**, and **end-to-end (E2E)** tests to ensure application reliability.
 - Worked within **Agile** teams, actively participating in sprint **planning**, **standups**, and **retrospectives**.
 - Communicated directly with clients to gather requirements and deliver tailored, scalable solutions.
+- Collaborated with designers to implement pixel-perfect designs and ensure consistent user experiences.
 
 ## Education
 
-### Faculty of Information Technologies, University "Džemal Bijedić" in Mostar
+#### Faculty of Information Technologies, University "Džemal Bijedić" in Mostar
 
 Bachelor's degree, Computer Software Engineering | Sep 2019 - Present
