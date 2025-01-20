@@ -1,4 +1,5 @@
 import type { Config } from "tailwindcss";
+import typography from "@tailwindcss/typography";
 
 export default {
   content: [
@@ -8,11 +9,24 @@ export default {
   ],
   theme: {
     extend: {
+      container: {
+        center: true,
+        padding: "1rem",
+        screens: {
+          sm: "100%",
+          md: "65ch",
+          lg: "65ch",
+          xl: "70ch",
+          "2xl": "80ch",
+        },
+      },
+      fontFamily: {
+        sans: ["Inter Variable", "sans-serif"],
+      },
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        primary: "#FAE500",
       },
     },
   },
-  plugins: [],
+  plugins: [typography],
 } satisfies Config;
