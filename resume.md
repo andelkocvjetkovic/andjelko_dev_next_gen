@@ -1,6 +1,6 @@
 ## Core Skills
 
-- Programming Paradigms: Object-Oriented and Functional
+- Programming Paradigms: Object-Oriented and Functional programming
 - Programming Languages: JavaScript, TypeScript, C# and C++
 - Libraries and Frameworks: React, Next.js, Remix and Svelte
 - Web Rendering Technologies: SSR, SSG and CSR
@@ -22,7 +22,10 @@
 
 #### Frontend Developer | June 2021 – Present
 
-- Built high-performance software solutions using frameworks like **React**, **React Native**, **Svelte**, and **Vanilla JS and TS**.
+- Built custom software solutions
+- Utilized cutting edge frameworks and libraries such as **React**, **Next.js**, and **Remix** to deliver high-quality web applications.
+- Created mobile applications using **React Native**
+- Created data visualizations using **D3.js** and **Visx**
 - Created **responsive**, **accessible**, and **SEO-friendly** web applications.
 - Integrated **REST APIs**, implemented **JWT-based authorization** flows, and utilized tools like **Postman**.
 - Delivered CMS-driven solutions with **Payload**, **Sanity**, and **Strapi**, including payment integrations.
