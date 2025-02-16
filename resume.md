@@ -1,21 +1,18 @@
-Software Developer with 3+ years of experience specializing in building scalable, high-performance software solution. Skilled in delivering features incrementally within the Scrum framework, consistently meeting client milestones and ensuring exceptional quality. Passionate about creating user-friendly applications that prioritize performance and address user needs effectively.
+Software Developer with 3+ years of experience building high-performance, user-friendly applications. Passionate about solving user needs through efficient, scalable solutions. Skilled in delivering incremental features within the SCRUM framework, ensuring timely milestones and exceptional quality.
 
 ## Core Skills
 
 - Programming Paradigms: Object-Oriented and Functional programming
-- Programming Languages: JavaScript, TypeScript, C# and C++
-- Libraries and Frameworks: React, Next.js, Remix, Svelte and TanStack
+- Programming Languages: JavaScript, TypeScript, C#, C++ and CSS
+- Libraries and Frameworks: React, Next.js, Remix, Svelte, TanStack, Visx and D3.js
+- Mobile Development: React Native
 - Web Rendering Technologies: SSR, SSG and CSR
 - CSS Frameworks: Tailwind CSS, Bootstrap and Material-UI
-- UI Libraries: Radix, Shadcn React Aria and Bootstrap
-- Mobile Development: React Native
-- Testing: Jest, React Testing Library, Cypress and Vitest
-- Bundlers: Webpack, Vite, Metro and Turbopack
+- UI Libraries: Radix, Shadcn and React Aria
+- Testing: Jest, React Testing Library, Vitest, Playwright and Cypress
+- Bundlers: Vite and Metro
 - Database: SQL and MongoDB
-- Design: Figma
 - Version Control: Git
-- Data Visualization: Visx and D3.js
-- Animations: CSS and Three.js
 - Agile Methodologies: Scrum and Kanban
 
 ## Professional Experience
@@ -41,6 +38,6 @@ Software Developer with 3+ years of experience specializing in building scalable
 
 ## Education
 
-#### Faculty of Information Technologies, University "Džemal Bijedić" in Mostar
+#### Faculty of Information Technologies(FIT), University "Džemal Bijedić" in Mostar
 
 Bachelor's degree, Computer Software Engineering | Sep 2019 - Present

@@ -27,7 +27,7 @@ export default async function Home() {
             </div>
           </div>
         </header>
-        <div className="" dangerouslySetInnerHTML={{ __html: resume }} />
+        <div dangerouslySetInnerHTML={{ __html: resume }} />
       </div>
     </main>
   );
