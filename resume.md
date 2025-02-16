@@ -4,11 +4,11 @@ Software Developer with 3+ years of experience building high-performance, user-f
 
 - Programming Paradigms: Object-Oriented and Functional programming
 - Programming Languages: JavaScript, TypeScript, C#, C++ and CSS
-- Libraries and Frameworks: React, Next.js, Remix, Svelte, TanStack, Visx and D3.js
-- Mobile Development: React Native
+- Libraries and Frameworks: React, Next.js, Remix, Svelte, TanStack, Visx, D3.js and Three.js
+- CSS Frameworks: Tailwind CSS and Material-UI
+- UI Libraries: Radix, Shadcn and React-Aria
 - Web Rendering Technologies: SSR, SSG and CSR
-- CSS Frameworks: Tailwind CSS, Bootstrap and Material-UI
-- UI Libraries: Radix, Shadcn and React Aria
+- Mobile Development: React Native
 - Testing: Jest, React Testing Library, Vitest, Playwright and Cypress
 - Bundlers: Vite and Metro
 - Database: SQL and MongoDB
