@@ -1,4 +1,4 @@
-Software Developer with 4 years of experience building high-performance, user-friendly applications. Passionate about solving client needs through efficient, scalable solutions. Skilled in delivering incremental features within the SCRUM framework, ensuring timely milestones and quality.
+Software Developer with 4 years of experience building high-performance, user-friendly applications. Passionate about solving customer needs through efficient, scalable solutions. Skilled in delivering incremental features within the SCRUM framework, ensuring timely milestones and quality.
 
 ## Core Skills
 
