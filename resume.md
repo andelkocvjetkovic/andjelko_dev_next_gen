@@ -36,6 +36,15 @@ Software Developer with 3+ years of experience building high-performance, user-f
 - Collaborated with designers to implement **pixel-perfect** designs and ensure consistent **user experiences**.
 - Communicated directly with clients to gather requirements and deliver tailored, scalable solutions.
 
+## Portfolio
+
+- [BH Passport](https://www.bhpassport.ba/)
+- [UNIQA DNA CZ](https://havas-uniqa.vercel.app/)
+- [Codepool](https://www.codepool.io/)
+- [Abdul Latif Jameel Enterprises](https://alj-web.vercel.app/en)
+- [Udoban Dom](https://www.udobandom.com)
+- [Villa Hana](https://villahana-croatia.com/)
+
 ## Education
 
 #### Faculty of Information Technologies(FIT), University "Džemal Bijedić" in Mostar
