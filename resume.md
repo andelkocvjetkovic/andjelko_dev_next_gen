@@ -1,8 +1,8 @@
-Software Developer with 3+ years of experience building high-performance, user-friendly applications. Passionate about solving user needs through efficient, scalable solutions. Skilled in delivering incremental features within the SCRUM framework, ensuring timely milestones and exceptional quality.
+Software Developer with 4 years of experience building high-performance, user-friendly applications. Passionate about solving client needs through efficient, scalable solutions. Skilled in delivering incremental features within the SCRUM framework, ensuring timely milestones and quality.
 
 ## Core Skills
 
-- Programming Paradigms: Object-Oriented and Functional programming
+- Programming Paradigms: Object-Oriented, Functional and Procedural programming
 - Programming Languages: JavaScript, TypeScript, C#, C++ and CSS
 - Libraries and Frameworks: React, Next.js, Remix, Svelte, TanStack, Visx, D3.js and Three.js
 - CSS Frameworks: Tailwind CSS and Material-UI
