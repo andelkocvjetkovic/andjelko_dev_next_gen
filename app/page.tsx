@@ -21,7 +21,7 @@ export default async function Home() {
                 andjelko.cvjetkovic@gmail.com
               </a>
               <a href="https://github.com/andelkocvjetkovic">github</a>
-              <a href="https://www.linkedin.com/in/andelkocvjetkovic/">
+              <a href="https://www.linkedin.com/in/andelkocvjekovic/">
                 linkedin
               </a>
             </div>
