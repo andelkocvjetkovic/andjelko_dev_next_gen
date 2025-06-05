@@ -15,13 +15,13 @@ export default async function Home() {
             className="rounded object-cover object-center h-auto"
           />
           <div>
-            <h1>Andjelko Cvjetkvic</h1>
+            <h1>Andjelko Cvjetkovic</h1>
             <div className="flex flex-col">
               <a href="mailto:andjelko.cvjetkovic@gmail.com">
                 andjelko.cvjetkovic@gmail.com
               </a>
               <a href="https://github.com/andelkocvjetkovic">github</a>
-              <a href="https://www.linkedin.com/in/andelkocvjekovic/">
+              <a href="https://www.linkedin.com/in/andelkocvjetkovic/">
                 linkedin
               </a>
             </div>
