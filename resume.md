@@ -38,12 +38,13 @@ Software Developer with 4 years of experience building high-performance, user-fr
 
 ## Portfolio
 
-- [BH Passport](https://www.bhpassport.ba/)
-- [UNIQA DNA CZ](https://havas-uniqa.vercel.app/)
-- [Codepool](https://www.codepool.io/)
-- [Abdul Latif Jameel Enterprises](https://alj-web.vercel.app/en)
-- [Udoban Dom](https://www.udobandom.com)
-- [Villa Hana](https://villahana-croatia.com/)
+ - [Prirodou Samosebou](https://prirodou.samosebou.cz/)
+ - [BH Passport](https://www.bhpassport.ba/)
+ - [UNIQA DNA CZ](https://havas-uniqa.vercel.app/)
+ - [Codepool](https://www.codepool.io/)
+ - [Abdul Latif Jameel Enterprises](https://alj-web.vercel.app/en)
+ - [Udoban Dom](https://www.udobandom.com)
+ - [Villa Hana](https://villahana-croatia.com/)
 
 ## Education
 
