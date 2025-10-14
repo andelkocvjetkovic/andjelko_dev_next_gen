@@ -36,6 +36,7 @@ Software Developer with 4 years of experience building high-performance, user-fr
 - Collaborated with designers to implement **pixel-perfect** designs and ensure consistent **user experiences**.
 - Communicated directly with clients to gather requirements and deliver tailored, scalable solutions.
 
+<!--
 ## Portfolio
 
  - [Prirodou Samosebou](https://prirodou.samosebou.cz/)
@@ -45,6 +46,7 @@ Software Developer with 4 years of experience building high-performance, user-fr
  - [Abdul Latif Jameel Enterprises](https://alj-web.vercel.app/en)
  - [Udoban Dom](https://www.udobandom.com)
  - [Villa Hana](https://villahana-croatia.com/)
+-->
 
 ## Education
 
