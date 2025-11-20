@@ -3,6 +3,7 @@
 import { useRef, useMemo } from "react";
 import { Canvas, useFrame } from "@react-three/fiber";
 import { Points, PointMaterial, Stars } from "@react-three/drei";
+import * as THREE from "three";
 import * as random from "maath/random/dist/maath-random.cjs";
 
 export function ParticlesBackground() {
@@ -16,8 +17,8 @@ export function ParticlesBackground() {
     );
 }
 
-function SpaceDust(props: any) {
-    const ref = useRef<any>();
+function SpaceDust(props: React.ComponentProps<typeof Points>) {
+    const ref = useRef<THREE.Points>(null!);
     const sphere = useMemo(() => random.inSphere(new Float32Array(6000), { radius: 1.5 }), []);
 
     useFrame((state, delta) => {

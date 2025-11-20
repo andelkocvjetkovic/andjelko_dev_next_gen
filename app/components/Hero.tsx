@@ -17,9 +17,7 @@ export function Hero() {
                     Andjelko Cvjetkovic
                 </h1>
                 <p className="max-w-[42rem] leading-normal text-muted-foreground sm:text-xl sm:leading-8">
-                    Software Developer with 4 years of experience building high-performance,
-                    user-friendly applications. Passionate about solving customer needs
-                    through efficient, scalable solutions.
+                    Front-End Engineer architecting the next generation of intelligent user interfaces. I combine modern design systems with AI-driven workflows to build immersive, high-performance web experiences.
                 </p>
             </div>
         </section>

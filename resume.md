@@ -1,9 +1,10 @@
-Software Developer with 4 years of experience building high-performance, user-friendly applications. Passionate about solving customer needs through efficient, scalable solutions. Skilled in delivering incremental features within the SCRUM framework, ensuring timely milestones and quality.
+Innovative Front-End Engineer with over 4 years of experience specializing in modern UI architecture. Expert in building scalable web solutions using React, Next.js, and TypeScript. Passionate about integrating Generative AI and engineering excellence to deliver intuitive user experiences.
 
 ## Core Skills
 
 - Programming Paradigms: Object-Oriented, Functional and Procedural programming
 - Programming Languages: JavaScript, TypeScript, C#, C++ and CSS
+- AI Engineering: Vercel AI SDK, OpenAI API, Anthropic Claude, Codex, Antigravity, Prompt Engineering
 - Libraries and Frameworks: React, Next.js, Remix, Svelte, TanStack, Visx, D3.js and Three.js
 - CSS Frameworks: Tailwind CSS and Material-UI
 - UI Libraries: Radix, Shadcn and React-Aria
@@ -21,15 +22,13 @@ Software Developer with 4 years of experience building high-performance, user-fr
 
 #### Frontend Developer | June 2021 – Present
 
-- Built web application leveraging cutting-edge frameworks like **React**, **Next.js**, **Remix** and **Svelte**.
-- Created **responsive**, **accessible**, and **SEO-friendly** web applications.
-- Implemented data visualizations using **D3.js** and **Visx**
-- Built mobile applications using **React Native**
-- Integrated **REST APIs**, implemented **JWT-based authorization** flows, and utilized tools like **Postman**.
-- Delivered CMS-driven solutions with **Payload**, **Sanity**, and **Strapi**, including payment integrations.
+- **Architected** and developed complex web applications leveraging **Next.js**, **Remix**, and **Svelte**, ensuring high performance and SEO optimization.
+- **Engineered** interactive data visualization dashboards using **D3.js** and **Visx**, transforming complex datasets into actionable insights.
+- Built cross-platform mobile applications using **React Native**.
+- Designed and integrated robust **RESTful APIs** and secure **JWT-based authorization** flows.
+- Delivered scalable CMS solutions (**Payload**, **Sanity**, **Strapi**) and managed complex **monorepo** architectures to streamline development velocity.
 - Developed complex animations and interactive components to enhance user experiences.
 - Implemented Internationalization (i18n) for **multi-language** support across applications.
-- Managed and maintained complex **Git** repositories, including **monorepo** setups, ensuring efficient workflows.
 - Designed and built **email templates** and notification systems to improve user communication.
 - Wrote and maintained **unit**, **integration**, and **end-to-end (E2E)** tests to ensure application reliability.
 - Worked within **Agile** teams, actively participating in sprint **planning**, **standups**, and **retrospectives**.
