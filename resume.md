@@ -1,4 +1,3 @@
-Innovative Front-End Engineer with over 4 years of experience specializing in modern UI architecture. Expert in building scalable web solutions using React, Next.js, and TypeScript. Passionate about integrating Generative AI and engineering excellence to deliver intuitive user experiences.
 
 ## Core Skills
 
