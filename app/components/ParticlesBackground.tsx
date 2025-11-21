@@ -19,7 +19,7 @@ export function ParticlesBackground() {
 
 function SpaceDust(props: React.ComponentProps<typeof Points>) {
     const ref = useRef<THREE.Points>(null!);
-    const sphere = useMemo(() => random.inSphere(new Float32Array(6000), { radius: 1.5 }), []);
+    const sphere = useMemo(() => random.inSphere(new Float32Array(6000), { radius: 1.5 }) as Float32Array, []);
 
     useFrame((state, delta) => {
         if (ref.current) {
