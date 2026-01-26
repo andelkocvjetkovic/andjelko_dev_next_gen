@@ -1,12 +1,24 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Sora, Space_Grotesk, Space_Mono } from "next/font/google";
 import "./globals.css";
 import { Header } from "./components/Header";
-import { ParticlesBackground } from "./components/ParticlesBackground";
 
-const fontSans = Inter({
-  variable: "--font-inter",
-  subsets: ["latin"],
+const fontSans = Sora({
+  variable: "--font-sans",
+  weight: ["400", "500", "600"],
+  subsets: ["latin", "latin-ext"],
+});
+
+const fontDisplay = Space_Grotesk({
+  variable: "--font-display",
+  weight: ["500", "600", "700"],
+  subsets: ["latin", "latin-ext"],
+});
+
+const fontMono = Space_Mono({
+  variable: "--font-mono",
+  weight: ["400", "700"],
+  subsets: ["latin", "latin-ext"],
 });
 
 export const metadata: Metadata = {
@@ -21,8 +33,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${fontSans.variable} font-sans antialiased min-h-screen flex flex-col`}>
-        <ParticlesBackground />
+      <body
+        className={`${fontSans.variable} ${fontDisplay.variable} ${fontMono.variable} font-sans antialiased min-h-screen flex flex-col`}
+      >
         <Header />
         <main className="flex-1">{children}</main>
       </body>

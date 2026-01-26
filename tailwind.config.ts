@@ -21,40 +21,42 @@ export default {
         },
       },
       fontFamily: {
-        sans: ["var(--font-inter)", "sans-serif"],
+        sans: ["var(--font-sans)", "sans-serif"],
+        display: ["var(--font-display)", "sans-serif"],
+        mono: ["var(--font-mono)", "monospace"],
       },
       colors: {
         primary: {
-          DEFAULT: "#FAE500",
-          foreground: "#18181b", // zinc-900
+          DEFAULT: "#b2462e",
+          foreground: "#fff6ec",
         },
-        background: "#09090b", // zinc-950
-        foreground: "#fafafa", // zinc-50
+        background: "#f6f2ea",
+        foreground: "#1f1d1a",
         muted: {
-          DEFAULT: "#27272a", // zinc-800
-          foreground: "#a1a1aa", // zinc-400
+          DEFAULT: "#f4efe7",
+          foreground: "#7a7065",
         },
-        border: "#27272a", // zinc-800
+        border: "#dfd4c4",
       },
       typography: {
         DEFAULT: {
           css: {
-            "--tw-prose-body": "#fafafa", // zinc-50
-            "--tw-prose-headings": "#fafafa", // zinc-50
-            "--tw-prose-lead": "#a1a1aa", // zinc-400
-            "--tw-prose-links": "#FAE500", // primary
-            "--tw-prose-bold": "#fafafa", // zinc-50
-            "--tw-prose-counters": "#a1a1aa", // zinc-400
-            "--tw-prose-bullets": "#52525b", // zinc-600
-            "--tw-prose-hr": "#27272a", // zinc-800
-            "--tw-prose-quotes": "#fafafa", // zinc-50
-            "--tw-prose-quote-borders": "#FAE500", // primary
-            "--tw-prose-captions": "#a1a1aa", // zinc-400
-            "--tw-prose-code": "#fafafa", // zinc-50
-            "--tw-prose-pre-code": "#fafafa", // zinc-50
-            "--tw-prose-pre-bg": "#27272a", // zinc-800
-            "--tw-prose-th-borders": "#27272a", // zinc-800
-            "--tw-prose-td-borders": "#27272a", // zinc-800
+            "--tw-prose-body": "#1f1d1a",
+            "--tw-prose-headings": "#1c1a18",
+            "--tw-prose-lead": "#6f655a",
+            "--tw-prose-links": "#b2462e",
+            "--tw-prose-bold": "#1c1a18",
+            "--tw-prose-counters": "#7b7064",
+            "--tw-prose-bullets": "#9a8f82",
+            "--tw-prose-hr": "#dfd4c4",
+            "--tw-prose-quotes": "#1f1d1a",
+            "--tw-prose-quote-borders": "#b2462e",
+            "--tw-prose-captions": "#7b7064",
+            "--tw-prose-code": "#1f1d1a",
+            "--tw-prose-pre-code": "#1f1d1a",
+            "--tw-prose-pre-bg": "#efe6da",
+            "--tw-prose-th-borders": "#dfd4c4",
+            "--tw-prose-td-borders": "#dfd4c4",
           },
         },
       },

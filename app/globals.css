@@ -14,5 +14,38 @@
 
   body {
     @apply bg-background text-foreground antialiased selection:bg-primary selection:text-primary-foreground;
+    background-image:
+      radial-gradient(circle at 20% 10%, rgba(178, 70, 46, 0.08), transparent 45%),
+      radial-gradient(circle at 80% 0%, rgba(31, 77, 86, 0.08), transparent 45%),
+      linear-gradient(180deg, rgba(255, 255, 255, 0.65), rgba(246, 242, 234, 0.95));
+    background-attachment: fixed;
   }
+
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background-image: repeating-linear-gradient(
+        0deg,
+        rgba(31, 29, 26, 0.03),
+        rgba(31, 29, 26, 0.03) 1px,
+        transparent 1px,
+        transparent 5px
+      ),
+      repeating-linear-gradient(
+        90deg,
+        rgba(31, 29, 26, 0.02),
+        rgba(31, 29, 26, 0.02) 1px,
+        transparent 1px,
+        transparent 7px
+      );
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  body > * {
+    position: relative;
+    z-index: 1;
+  }
+
 }
