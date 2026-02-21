@@ -50,7 +50,7 @@ Front-End Engineer focused on performant, scalable web interfaces across React/N
 - Implemented role-based workflows (User / Partner / Admin), account management, and location CRUD flows.
 - Created and maintained a shared monorepo design system used across Kam třídit and Čistou přírodou.
 - Stack: React, TypeScript, MapLibre GL JS, Mapy.com API, React Router, Tailwind CSS
-- Link (dev): [kamtridit.qa-codepool.com](https://kamtridit.qa-codepool.com/)
+- Link: [kamtridit.cz](https://kamtridit.cz)
 
 ### ScrumGlide
 
